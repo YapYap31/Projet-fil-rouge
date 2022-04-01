@@ -1,14 +1,14 @@
-# Projet fil rouge
+## Projet fil rouge
 
 ADRAR DEVOPS - 2022
 
-## Réalisé par :
+### Réalisé par :
 - Raphael T
 
-## Description du projet :
+### Description du projet :
 Ce projet est la réalisation d'un site web de quizz interactif.
 
-## Langages :
+### Langages :
 - HTML
 - CSS
 - JavaScript
