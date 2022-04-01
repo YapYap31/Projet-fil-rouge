@@ -6,7 +6,7 @@ ADRAR DEVOPS - 2022
 - Raphael T
 
 ### Description du projet :
-Ce projet est la réalisation d'un site web de quizz interactif.
+Ce projet est la réalisation d'un site web de quizz interactif (SpeedQuizz).
 
 ### Langages :
 - HTML
